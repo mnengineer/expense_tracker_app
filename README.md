@@ -1,8 +1,11 @@
 # expense_tracker_app
 
-<img src="ExpenseTracker.gif" width="270" />
-<img src="ExpenseTracker_Dark.gif" width="270" />
-<img src="ExpenseTracker_Sideways.gif" width="270" />
+<p float="left">
+  <img src="ExpenseTracker.gif" width="270" />
+  <img src="ExpenseTracker_Dark.gif" width="270" />
+  <img src="ExpenseTracker_Sideways.gif" width="270" />
+</p>
+
 
 ## Getting Started
 
