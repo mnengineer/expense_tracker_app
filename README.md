@@ -1,6 +1,8 @@
 # expense_tracker_app
 
-A new Flutter project.
+<img src="ExpenseTracker.gif" width="270" />
+<img src="ExpenseTracker_Dark.gif" width="270" />
+<img src="ExpenseTracker_Sideways.gif" width="270" />
 
 ## Getting Started
 
