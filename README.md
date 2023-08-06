@@ -2,10 +2,9 @@
 
 <p float="left">
   <img src="ExpenseTracker.gif" width="270" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="ExpenseTracker_Dark.gif" width="270" />
-  <img src="ExpenseTracker_Sideways.gif" width="270" />
 </p>
-
 
 ## Getting Started
 
