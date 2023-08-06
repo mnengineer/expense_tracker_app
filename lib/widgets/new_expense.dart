@@ -88,7 +88,7 @@ class _NewExpenseState extends State<NewExpense> {
               children: [
                 if (width >= 600)
                   Row(
-                    crossAxisAlignment: CrossAxisAlignment,
+                    crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Expanded(
                         child: TextField(
